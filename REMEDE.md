@@ -1,0 +1,1 @@
+the basic function of a blog
